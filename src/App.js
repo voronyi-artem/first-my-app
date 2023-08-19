@@ -1,7 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
-import Technologies from './technologies';
-import Header from './header';
+import Technologies from './Technologies';
+import Header from './Header';
 
 
 
