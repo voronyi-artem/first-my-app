@@ -23,11 +23,11 @@
   border-radius: 10px;
 }
 
-.content {
+.profile {
   grid-area: c;
   border-radius: 10px;
 }
-.content img {
+.profile img {
   border-radius: 10px;
 }
 .header img{
